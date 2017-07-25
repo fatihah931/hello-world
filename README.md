@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+hi i'm fatihah
+
+can try and error
